@@ -1,0 +1,38 @@
+Pre requisites for learning Recursion:
+1. Iteration(Loops)
+2. Functions
+
+Mostly used in:
+a. Trees
+b. Graphs
+c. DP
+
+f(x) = x^2
+f(f(x)) = (x^2)^2
+
+x = 2
+f(x) = 2^2 = 4
+f(f(x)) = (2^2)^2 = 4^2 = 16
+
+Recursion is a function calling itself.
+Here's an example of factorial of 5:
+f(5) = 5 × f(4)
+        ↓
+      4 × f(3)
+        ↓
+      3 × f(2)
+        ↓
+      2 × f(1)
+        ↓
+      1 × f(0)
+
+Returning :
+f(5) = 5 × f(4)  =  5 × 24  =  120
+        ↑
+      4 × f(3)  =  4 × 6   =  24
+        ↑
+      3 × f(2)  =  3 × 2   =  6
+        ↑
+      2 × f(1)  =  2 × 1   =  2
+        ↑
+      1 × f(0)  =  1 × 1   =  1
