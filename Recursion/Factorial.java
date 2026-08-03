@@ -1,5 +1,3 @@
-package Recursion;
-
 public class Factorial {
 
     // Function for Factorial

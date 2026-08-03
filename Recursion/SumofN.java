@@ -1,5 +1,3 @@
-package Recursion;
-
 public class SumofN {
 
     public static int sumOfN(int n){

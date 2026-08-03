@@ -1,5 +1,3 @@
-package Recursion;
-
 public class CheckSortedArr {
 
     public static boolean isSorted(int nums[], int i){

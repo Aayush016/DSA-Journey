@@ -47,5 +47,7 @@ public class pattern{
         } else{
             System.out.println("The given number is NOT a Prime");
         }
+
+        sc.close();
     }
 }

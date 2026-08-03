@@ -1,5 +1,3 @@
-package Recursion;
-
 public class XpowN {
 
     public static int powX_N(int x, int n){

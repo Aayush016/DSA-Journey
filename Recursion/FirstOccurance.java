@@ -1,5 +1,3 @@
-package Recursion;
-
 public class FirstOccurance {
     public static int firstO(int nums[], int i, int n){
         if(i == nums.length){

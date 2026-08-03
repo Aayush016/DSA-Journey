@@ -1,5 +1,3 @@
-package Recursion;
-
 public class LastOccurrence {
     public static int lastO(int nums[], int i, int n){
         if(i == nums.length){
