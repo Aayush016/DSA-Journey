@@ -1,5 +1,7 @@
 public class N_Queens {
 
+    static int count=0;
+
     public static boolean isSafe(char board[][], int row, int col){
         // Vertically Up
         for(int i=row-1; i>=0; i--){
@@ -28,7 +30,8 @@ public class N_Queens {
     public static void nQueens(char board[][], int row){
         // Base Case
         if(row == board.length){
-            printBoard(board);
+            // printBoard(board); // This is to print all the possible solutions
+            count++;
             return;
         }
 
@@ -62,6 +65,7 @@ public class N_Queens {
         }
 
         nQueens(board, 0);
+        System.out.println("Total ways to solve n queens = " + count);
     }
 }
 
