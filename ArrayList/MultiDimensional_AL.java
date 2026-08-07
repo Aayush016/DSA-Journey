@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.jar.Manifest;
 
 public class MultiDimensional_AL {
     public static void main(String[] args) {
