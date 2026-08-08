@@ -14,6 +14,11 @@ This repository contains my solutions and notes while learning **Data Structures
 - Sorting
 - Recursion
 - OOPs
+- ArrayList
+- Linked List
+- Stack
+- Backtracking
+- Divide & Conquer
 
 > More topics will be added as I continue learning.
 
@@ -27,3 +32,4 @@ This repository contains my solutions and notes while learning **Data Structures
 - Practice problem solving
 - Prepare for coding interviews
 - Track my learning journey
+- Build a strong foundation in Data Structures and Algorithms
