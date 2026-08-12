@@ -140,7 +140,6 @@ public class Basics_LL {
 
         ll.removeLast();
         ll.print();
-        System.out.println(ll.size);
 
     }
 }
