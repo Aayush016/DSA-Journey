@@ -232,7 +232,7 @@ public class LinkedList {
         ll.addFirst(5);
 
         ll.print();
-        ll.head = ll.mergeSort(head);
+        head = ll.mergeSort(head);
         ll.print();
     }
 }
