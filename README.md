@@ -33,3 +33,7 @@ This repository contains my solutions and notes while learning **Data Structures
 - Prepare for coding interviews
 - Track my learning journey
 - Build a strong foundation in Data Structures and Algorithms
+
+## What to learn for more depth in java
+
+- Threads
